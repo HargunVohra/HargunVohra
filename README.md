@@ -12,7 +12,8 @@
 - **Databases:** MongoDB, MySQL, PostgreSQL  
 - **Languages:** Python, JavaScript  
 - **Cloud & DevOps:** AWS, Docker, Git/GitHub  
-- **AI/ML:** Machine Learning, Deep Learning (basics), Data Science  
+- **AI/ML:** Machine Learning, Deep Learning (basics), Data Science, Natural Language Processing (NLP)
+- **Visualisation Tools:** Microsoft Power BI, Microsoft Excel, Orange
 
 ---
 
