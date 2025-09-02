@@ -17,8 +17,8 @@
 
 
 ### 🌐 Connect with Me  
-- 💼 [LinkedIn](https://linkedin.com/in/hargunvohra)  
-- 📧 [Email Me](mailto:your-email@example.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hargun-singh-vohra-2ab542218/)  
+- 📧 [Email Me](mailto:hargunvohra1973@gmail.com)  
 
 ---
 ⭐️ From [HargunVohra](https://github.com/HargunVohra)
