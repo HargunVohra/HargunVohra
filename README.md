@@ -7,8 +7,9 @@
 ---
 
 ### 🛠️ Tech Stack  
-- **Frontend:** React, Tailwind, JavaScript (ES6+) 
-- **Backend:** Node.js, Express, MongoDB  
+- **Frontend:** React, Tailwind, JavaScript (ES6+), Angular 17
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL, PostgreSQL  
 - **Languages:** Python, JavaScript  
 - **Cloud & DevOps:** AWS, Docker, Git/GitHub  
 - **AI/ML:** Machine Learning, Deep Learning (basics), Data Science  
