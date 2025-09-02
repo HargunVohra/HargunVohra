@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Tech Stack  
-- **Frontend:** React, Redux, Tailwind, JavaScript (ES6+)  
+- **Frontend:** React, Tailwind, JavaScript (ES6+) 
 - **Backend:** Node.js, Express, MongoDB  
 - **Languages:** Python, JavaScript  
 - **Cloud & DevOps:** AWS, Docker, Git/GitHub  
