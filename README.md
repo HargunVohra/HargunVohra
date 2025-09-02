@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋, I'm Hargun Vohra  
 
-<!--
-**HargunVohra/HargunVohra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Software Developer** | MERN Stack | Python | AWS | AI/ML  
+🚀 Passionate about building scalable web applications and exploring intelligent systems  
+💡 Always learning, always building  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- **Frontend:** React, Redux, Tailwind, JavaScript (ES6+)  
+- **Backend:** Node.js, Express, MongoDB  
+- **Languages:** Python, JavaScript  
+- **Cloud & DevOps:** AWS, Docker, Git/GitHub  
+- **AI/ML:** Machine Learning, Deep Learning (basics), Data Science  
+
+---
+
+
+### 🌐 Connect with Me  
+- 💼 [LinkedIn](https://linkedin.com/in/hargunvohra)  
+- 📧 [Email Me](mailto:your-email@example.com)  
+
+---
+⭐️ From [HargunVohra](https://github.com/HargunVohra)
