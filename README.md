@@ -19,7 +19,7 @@
 
 
 ### 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hargun-singh-vohra-2ab542218/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hargun-vohra-2ab542218/)  
 - 📧 [Email Me](mailto:hargunvohra1973@gmail.com)  
 
 ---
